@@ -3,6 +3,10 @@
 
 *Graduate Rotational Internship Program*
 
+
+*Internship function : Data Science & Business Analytics*
+
+
 **Task 1: Prediction using Supervised ML**
 
 
